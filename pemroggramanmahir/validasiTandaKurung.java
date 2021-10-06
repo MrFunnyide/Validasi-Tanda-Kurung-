@@ -45,6 +45,7 @@ public class validasiTandaKurung<T> {
             T r = data[top];
             return r;
         } else {
+            top--;
             return null;
         }
     }
