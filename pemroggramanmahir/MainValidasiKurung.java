@@ -35,9 +35,9 @@ public class MainValidasiKurung {
        
         // mengecek apakah valid atau tidak 
         if(validasiStack.isEmpety()) {
-           System.out.println("valid");
+           System.out.println("rumus valid");
         } else {
-           System.out.println("tidak valid!");
+           System.out.println("rumus tidak valid!");
        }
     }
 }
